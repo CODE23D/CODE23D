@@ -1,12 +1,11 @@
-# Hi there, I'm [Bendahhane Zakariyae] 👋  
+# 👋 Welcome to My GitHub Profile  
 
-## 💻 About Me  
-I am a DevOps Engineer and Software Developer with expertise in building scalable systems, REST APIs, and automation. I specialize in Python, C, C++, and Node.js, with a strong focus on infrastructure, security, and performance optimization.  
+## 🛠 About Me  
+I am a **DevOps Engineer** and **Software Developer** with expertise in **automation, cloud infrastructure, and backend development**. I specialize in designing scalable and secure systems, leveraging my experience in **Python, C, C++, and Node.js**. My focus areas include:  
 
-## 🚀 What I'm Working On  
-- 🛠 **DevOps & Automation:** CI/CD pipelines, Kubernetes, Docker, and infrastructure as code  
-- 🔒 **Security & Monitoring:** Implementing WAFs, ModSecurity, and HashiCorp Vault  
-- 📡 **APIs & Backend Development:** Scalable REST APIs with Python, Node.js, and C++  
+- 🚀 **DevOps & Infrastructure**: CI/CD, Kubernetes, Docker, Terraform, and Infrastructure as Code (IaC)  
+- 🔒 **Cybersecurity & Compliance**: WAF, ModSecurity, HashiCorp Vault, and secure API authentication  
+- ⚡ **Backend Development**: High-performance REST APIs, microservices, and system optimization  
 
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -15,11 +14,19 @@ I am a DevOps Engineer and Software Developer with expertise in building scalabl
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
-## 📫 Connect with Me  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Twitter/X:** [Your Twitter Profile]  
-- **GitHub:** [Your GitHub Profile]  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CODE23D&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE23D&layout=compact&theme=radical)  
+
+## 📫 Connect with Me  
+- 💼 **LinkedIn**: [Your LinkedIn Profile]  
+- 🐦 **Twitter/X**: [Your Twitter Profile]  
+- 🌐 **Portfolio**: [Your Website (if available)]  
+
+---
+
+💡 *Always exploring new technologies and improving system efficiency!* 🚀
