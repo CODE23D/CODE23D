@@ -16,6 +16,3 @@ I am a **DevOps Engineer** and **Software Developer** with expertise in **automa
 ## GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CODE23D&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE23D&layout=compact&theme=radical)  
-
-## Connect with Me  
-- **LinkedIn**: [https://www.linkedin.com/in/bendahhane-zakariyae-3527a82b7/]
