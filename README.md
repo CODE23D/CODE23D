@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile  
+## Welcome to My GitHub Profile  
 
 ## About Me  
 I am a **DevOps Engineer** and **Software Developer** with expertise in **automation, cloud infrastructure, and backend development**. I specialize in designing scalable and secure systems, leveraging my experience in **Python, C, C++, and Node.js**. My focus areas include:  
@@ -13,6 +13,23 @@ I am a **DevOps Engineer** and **Software Developer** with expertise in **automa
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+## Connect with Me
+<div align="center">
+  <a href="mailto:bendahhane.zakariyae@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/Bendahhane Zakariyae" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Pixline404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
+  </a>
+</div>
+
 ## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CODE23D&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CODE23D&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pixline&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pixline&layout=compact&theme=radical)
+##
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
