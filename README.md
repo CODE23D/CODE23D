@@ -18,7 +18,7 @@ I am a **DevOps Engineer** and **Software Developer** with expertise in **automa
   <a href="mailto:bendahhane.zakariyae@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <a href="https://linkedin.com/in/Bendahhane Zakariyae" target="_blank">
+  <a href="https://linkedin.com/in/bendahhane-zakariyae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/Pixline404" target="_blank">
